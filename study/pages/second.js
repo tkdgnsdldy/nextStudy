@@ -1,6 +1,7 @@
 import Nav from '../components/nav';
 import Head from 'next/head';
 
+
 // JSX : Javascirpt + XML
 export default () => <div>
     <Head>
